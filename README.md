@@ -1,6 +1,6 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        XgeneCloud<br>
+        XgeneCloud<hr>
         Instant REST & GraphQL APIs on any Database
     </b>
 </h1>
